@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![Fusion Flavors Menu](file:///C:/Users/admin/Pictures/Screenshots/admin_panel.png) 
+![Fusion Flavors Menu](assets/admin_panel.png) 
 
 ## Getting Started
 
